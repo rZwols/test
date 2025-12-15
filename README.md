@@ -4,5 +4,5 @@ this repo is a test.
 <h1>test for headers</h1>
 <button>button test</button>
 <p>paragraph test</p>
-[redirect test](test_dir/redirect.html)
+<a href="test_dir/">redirect link</a>
 <h2>h2</h2>
