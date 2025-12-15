@@ -5,6 +5,6 @@ this repo is a test.
 <button>button test</button>
 <p>paragraph test</p>
 <a href="test_dir/">redirect link</a>
-[redirect link 2] (test_dir/redirect.html)
-[redirect link 3] (test_dir/)
+[redirect link 2](test_dir/redirect.html)
+[redirect link 3](test_dir/)
 <h2>h2</h2>
